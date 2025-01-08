@@ -18,4 +18,4 @@ The Public Grievance Redressal Module is part of a modern E-Governance applicati
 
 - Frontend: React JS
 - Backend: Spring Boot
-- Database: Postgres
+- Database: pgadmin4client
